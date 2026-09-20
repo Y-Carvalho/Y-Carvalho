@@ -1,0 +1,70 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05070c"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="emeraldGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00ffa3" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#00ffa3" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blurBig" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+    <filter id="textGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00e5ff" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <circle cx="150" cy="130" r="200" fill="url(#cyanGlow)" filter="url(#blurBig)"/>
+  <circle cx="1080" cy="90" r="170" fill="url(#emeraldGlow)" filter="url(#blurBig)"/>
+  <circle cx="1000" cy="270" r="130" fill="url(#cyanGlow)" filter="url(#blurBig)" opacity="0.5"/>
+
+  <!-- circuito decorativo -->
+  <g stroke="#00e5ff" stroke-opacity="0.3" stroke-width="1.5" fill="none">
+    <path d="M 840 35 L 900 35 L 900 75 L 970 75"/>
+    <path d="M 990 25 L 990 55 L 1060 55"/>
+    <path d="M 40 225 L 100 225 L 100 265 L 170 265"/>
+    <path d="M 1120 150 L 1160 150 L 1160 200"/>
+    <circle cx="900" cy="75" r="3.5" fill="#00e5ff"/>
+    <circle cx="1060" cy="55" r="3.5" fill="#00e5ff"/>
+    <circle cx="170" cy="265" r="3.5" fill="#00ffa3"/>
+    <circle cx="1160" cy="200" r="3.5" fill="#00ffa3"/>
+  </g>
+
+  <!-- binario decorativo nos cantos -->
+  <text x="30" y="35" fill="#00e5ff" opacity="0.18" font-family="'Courier New', monospace" font-size="12">01000110 01010101 01001100 01001100</text>
+  <text x="880" y="292" fill="#00ffa3" opacity="0.18" font-family="'Courier New', monospace" font-size="12">10110100 01110011 01110100 01100001</text>
+
+  <!-- Titulo -->
+  <text x="600" y="140" text-anchor="middle" font-family="'Courier New', monospace" font-weight="700" font-size="50" fill="#00e5ff" filter="url(#textGlow)">YANNICK CARVALHO</text>
+
+  <!-- Subtitulo -->
+  <text x="600" y="175" text-anchor="middle" font-family="'Courier New', monospace" font-size="17" letter-spacing="5" fill="#e6f9ff">FULL STACK DEVELOPER</text>
+
+  <!-- pills -->
+  <g font-family="'Courier New', monospace" font-size="12.5">
+    <rect x="300" y="205" width="175" height="32" rx="16" fill="#00ffa3" fill-opacity="0.08" stroke="#00ffa3" stroke-opacity="0.7"/>
+    <text x="387" y="226" text-anchor="middle" fill="#00ffa3">BACKEND-FOCUSED</text>
+
+    <rect x="490" y="205" width="130" height="32" rx="16" fill="#00e5ff" fill-opacity="0.08" stroke="#00e5ff" stroke-opacity="0.7"/>
+    <text x="555" y="226" text-anchor="middle" fill="#00e5ff">FULL STACK</text>
+
+    <rect x="635" y="205" width="265" height="32" rx="16" fill="#00ffa3" fill-opacity="0.08" stroke="#00ffa3" stroke-opacity="0.7"/>
+    <text x="767" y="226" text-anchor="middle" fill="#00ffa3">SEMPRE CURIOSO, SEMPRE APRENDENDO</text>
+  </g>
+</svg>
