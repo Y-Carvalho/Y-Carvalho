@@ -48,17 +48,17 @@ Quero seguir como **Full Stack**, com foco futuro em **Backend** sem largar o Fr
 <sub>🧠 Aprofundando: <b>Java</b> &amp; <b>JavaScript</b> &nbsp;•&nbsp; 🌱 Começando em: <b>C</b></sub>
 </div>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## `03.` 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Y-Carvalho&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00ffa3&text_color=c9d1d9&border_color=00e5ff"/>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-Carvalho&langs_count=9&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&border_color=00e5ff"/>
+  <img height="195" src="https://github-stats-extended.vercel.app/api?username=Y-Carvalho&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00ffa3&text_color=c9d1d9&border_color=00e5ff"/>
+  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Y-Carvalho&langs_count=9&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&border_color=00e5ff"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y-Carvalho&hide_border=true&background=0d1117&ring=00e5ff&fire=00ffa3&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=c9d1d9"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y-Carvalho&hide_border=true&background=0d1117&ring=00e5ff&fire=00ffa3&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=00e5ff&sideNums=ffffff"/>
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
@@ -66,13 +66,11 @@ Quero seguir como **Full Stack**, com foco futuro em **Backend** sem largar o Fr
 ## `04.` 🐍 Contribution Graph — modo jogo
 
 > A cobrinha percorre o seu mapa de contribuições comendo os quadradinhos verdes, gerada automaticamente pela Action `.github/workflows/snake.yml` (usa o projeto [Platane/snk](https://github.com/Platane/snk)) e roda de novo a cada 12h.
+>
+> ⚠️ Se você tem contribuições em repositórios **privados** que não aparecem aqui, vá em [github.com/settings/profile](https://github.com/settings/profile) → seção *Contributions* → marque **"Include private contributions on my profile"**. Sem isso, o GitHub não expõe esses dados publicamente e nem a cobra nem os cards de stats conseguem contá-los.
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Y-Carvalho/Y-Carvalho/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Y-Carvalho/Y-Carvalho/output/github-contribution-grid-snake.svg" />
-  <img alt="animação da cobrinha no contribution graph" src="https://raw.githubusercontent.com/Y-Carvalho/Y-Carvalho/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+  <img alt="animação da cobrinha no contribution graph" src="https://raw.githubusercontent.com/Y-Carvalho/Y-Carvalho/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
@@ -80,12 +78,20 @@ Quero seguir como **Full Stack**, com foco futuro em **Backend** sem largar o Fr
 ## `05.` 📌 Projetos em destaque
 
 <p align="center">
+  <img src="./assets/no-projects.svg" alt="Nenhum projeto em destaque ainda"/>
+</p>
+
+
+<--Quando tiver repositórios para destacar, apague o bloco acima e descomente/edite este:-->
+
+<p align="center">
   <a href="https://github.com/Y-Carvalho/REPO_1">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Y-Carvalho&repo=REPO_1&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00ffa3&text_color=c9d1d9&border_color=00e5ff"/>
+    <img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=Y-Carvalho&repo=REPO_1&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00ffa3&text_color=c9d1d9&border_color=00e5ff"/>
   </a>
   <a href="https://github.com/Y-Carvalho/REPO_2">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_GITHUB&repo=REPO_2&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00ffa3&text_color=c9d1d9&border_color=00e5ff"/>
+    <img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=Y-Carvalho&repo=REPO_2&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00ffa3&text_color=c9d1d9&border_color=00e5ff"/>
   </a>
 </p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00e5ff,100:00ffa3&height=90&section=footer" width="100%"/>

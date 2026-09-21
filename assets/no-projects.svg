@@ -1,0 +1,12 @@
+<svg width="860" height="150" viewBox="0 0 860 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05070c"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="856" height="146" rx="14" fill="url(#bgGrad2)" stroke="#00e5ff" stroke-opacity="0.55" stroke-width="1.5" stroke-dasharray="8 6"/>
+  <text x="430" y="65" text-anchor="middle" font-family="'Courier New', monospace" font-size="26" font-weight="700" fill="#00e5ff">🚧 Nenhum projeto em destaque ainda</text>
+  <text x="430" y="98" text-anchor="middle" font-family="'Courier New', monospace" font-size="15" fill="#00ffa3">em breve — volte para conferir</text>
+  <text x="430" y="128" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#7d8590">projetos_em_destaque.length === 0</text>
+</svg>
