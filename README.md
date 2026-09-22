@@ -2,7 +2,7 @@
 
 <img src="./assets/header.svg" width="100%" alt="Yannick Carvalho — Full Stack Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=560&lines=full_stack_dev.init();Backend Frontand;Curiosidade por tecnologia;Aprendendo C aprofundando%3A+Java+%26+JS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=560&lines=full_stack_dev.init();Backend+%26+Frontend;Curiosidade+por+tecnologia;Aprendendo+C%2C+aprofundando%3A+Java+%26+JS" alt="Typing SVG" />
 
 </div>
 
@@ -20,13 +20,13 @@ Me chamo **Yannick Carvalho**. Sou formado no curso profissional de **Redes e Si
 
 Quero seguir como **Full Stack**, com foco futuro em **Backend** sem largar o Front — mas sou curioso por natureza, então não me limito a uma única linguagem ou área. Gosto de entender um pouco de tudo: da interface até a base de dados, passando por como a rede por trás disso tudo funciona.
 
-- 🎯 QUerendo especializar em **Backend**, mantendo uma boa base em **Front-end**.
-- 🔐 Interesse crescendo em **segurança de redes**
-- 🌱 Aprendendo **C** no momento, e me aprofundando em **Java** e **JavaScript**.
-- 🧠 Não gosto de escolher só uma linguagem — prefiro entender a estrutura e a base do ecossistema deles.
+- QUerendo especializar em **Backend**, mantendo uma boa base em **Front-end**.
+- Interesse crescendo em **segurança de redes**
+- Aprendendo **C** no momento, e me aprofundando em **Java** e **JavaScript**.
+- Não gosto de escolher só uma linguagem — prefiro entender a estrutura e a base do ecossistema deles.
 
 
-## `02.` Tecnologias e Frameworks
+## Tecnologias e Frameworks
 
 <p align="center">
 
@@ -49,7 +49,7 @@ Quero seguir como **Full Stack**, com foco futuro em **Backend** sem largar o Fr
 
 
 
-## `03.` 📊 Estatísticas do GitHub
+## Estatísticas 
 
 <table align="center">
   <tr>
